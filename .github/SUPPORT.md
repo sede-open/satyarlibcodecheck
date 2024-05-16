@@ -8,4 +8,4 @@ Community](https://community.rstudio.com/new-topic?category=Package%20developmen
 forums.
 
 Open an issue here _only_ if you have a feature request or bug in one of the
-custom R specific actions themselves.
+custom R specific actions themselves. 
